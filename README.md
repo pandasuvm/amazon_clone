@@ -1,6 +1,6 @@
 # Amazon Clone Frontend
 
-Welcome to the Amazon Clone Frontend repository! This project is a frontend clone of the popular e-commerce website Amazon. It is built purely with HTML and CSS, making it a great learning resource for frontend development enthusiasts.
+Welcome to the Amazon Clone Frontend repository! This project is a basic replica of the homepage of the popular e-commerce website Amazon. It is built purely with HTML and CSS, providing a simple yet effective learning resource for frontend development enthusiasts.
 
 ## Table of Contents
 
@@ -12,27 +12,25 @@ Welcome to the Amazon Clone Frontend repository! This project is a frontend clon
 
 ## Features
 
-- **Responsive Design:** The frontend is designed to be fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
-- **Product Listings:** Browse through a selection of products, displayed with images, descriptions, and pricing.
-- **Navigation:** Navigate through different product categories, view product details, and easily access shopping cart.
-- **Search Functionality:** Search for products using keywords to quickly find what you're looking for.
-- **User Interface:** Clean and intuitive user interface, resembling the familiar layout of Amazon website.
+- **Homepage Replica:** Experience a basic replica of the Amazon homepage, showcasing key elements such as the header, navigation menu, product listings, and footer.
+- **Static Design:** This frontend project provides a static representation of the Amazon homepage, without any dynamic functionality.
+- **HTML and CSS:** Built exclusively with HTML and CSS, making it accessible for beginners and providing a foundational understanding of frontend development.
 
 ## Installation
 
 To get started, simply clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/panda_suvm/amazon_clone-frontend.git
+git clone https://github.com/panda_suvm/amazon_clone_frontend.git
 ```
 
 Alternatively, you can download the ZIP file of the repository and extract it to your desired location.
 
 ## Usage
 
-After downloading or cloning the repository, open the `index.html` file in your preferred web browser to view the Amazon Clone frontend. You can interact with the website just like you would with the real Amazon website, albeit with limited functionality as this is only a frontend project.
+After downloading or cloning the repository, open the `index.html` file in your preferred web browser to view the Amazon Clone frontend. You will be able to see a basic replica of the Amazon homepage, including the header, navigation menu, product listings, and footer.
 
-Feel free to explore the different product categories, search for products, and navigate through the site to get a feel of the Amazon shopping experience.
+Feel free to explore the static design and inspect the HTML and CSS code to understand how different elements are structured and styled.
 
 ## Contributing
 
@@ -46,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy shopping! 🛒🎉
+Thank you for checking out the Amazon Clone Frontend! Happy coding! 🚀🎉
